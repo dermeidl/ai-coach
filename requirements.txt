@@ -1,4 +1,4 @@
-pip=23.1.2
+pipenv / pip
 pip install langchain
 pip install streamlit
 pip install pandas
