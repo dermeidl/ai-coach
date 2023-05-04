@@ -1,7 +1,7 @@
-langchain
-streamlit
-pandas
-datetime
-time
-re
-openai
+pip install langchain
+pip install streamlit
+pip install pandas
+pip install datetime
+pip install time
+pip install re
+pip install openai
